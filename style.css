@@ -1,0 +1,132 @@
+#header {
+    position: fixed;
+    z-index: 501;
+    width: 100%;
+    background: 0 0;
+
+}
+#header_main {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    z-index: 1;
+}
+.navbar{
+    height:88px; 
+    line-height:88px;
+}
+
+.navbar-brand{
+    padding-left: 100px;
+}
+
+.navbar-light{
+    background-color:#212326 !important;
+}
+.nav-link {
+    color: white !important;
+}
+.main_menu {
+    clear: none;
+    position: absolute;
+    z-index: 100;
+    line-height: 30px;
+    height: 100%;
+    margin: 0;
+    right: 0;
+    padding-top: 20px;
+    padding-right: 123px;
+}
+.carousel-item{
+    padding-top: 80px;
+}
+h2{
+    z-index: 5; 
+    font-family: Georgia, serif; 
+    visibility: visible; 
+    text-align: left; 
+    line-height: 56px; 
+    letter-spacing: 0px; 
+    font-weight: 400; 
+    font-size: 45px; 
+    border-color: rgb(68, 68, 68); 
+    border-style: none; 
+    margin: 0px; 
+    border-radius: 0px; 
+    padding: 0px; 
+    height: auto; 
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    white-space: normal; 
+    width: 556px; 
+    min-height: 0px; 
+    min-width: 0px; 
+    transform-origin: 50% 50%; 
+    opacity: 1; 
+    transform: translate(0px, 0px);
+    padding-bottom: 390px;
+    padding-left:100px;
+}
+
+.banner1 {
+    width: 100%;
+    height:50px;
+}
+
+.section{
+    background-color:#f4eae9;
+    padding-top:50px;
+    padding-bottom:60px;
+    font-family: big-caslon-fb, serif;
+    size:25px;
+    line-height: 50px;
+    style:normal;
+    color:#212326;
+}
+
+.text1 h3{
+    height:20%;
+}
+
+.icon{
+    padding-top:90px;
+    padding-bottom: 20px;
+}
+.text-title{
+    font-family: big-caslon-fb, serif;
+    style:normal;
+    weight:400;
+    font-size:24px;
+    line-height: 50px;
+    color: #212326;
+}
+
+.text2{
+    font-family: -macosx, sans-serif;
+    style:normal;
+    weight:400;
+    line-height: 25px;
+    color: #212326;
+    padding-bottom: 80px;
+}
+.case-study-title{
+    font-size: xx-small;
+    color:white;
+    text-align: left;
+    font:uppercase;
+    font-family: sans-serif,abs-pos;
+}
+.talent{
+    margin-left: -20px !important;
+}
+.container1{
+    background-image: url("img/AGT-grad.jpg");
+}
+
+
+div .flex_column {
+    z-index: 1;
+    float: left;
+    position: relative;
+    min-height: 1px;
+   
+}
